@@ -588,5 +588,5 @@ These websites all contain a huge amount of information on anything related to W
 - Web3 creators - https://www.web3creators.com/  
 - Web3 starter pack - https://cryptosociety.notion.site/Web3-Starter-Pack-5a922714348e4a7cbaa45b2f0a8861bd 
 - Zk Block - https://zkblock.app/ 
-
+- OnFinality - https://onfinality.io/
 
